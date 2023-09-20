@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy.lib")(options "")(descr ""))
+  (lib (name "NXP")(type "Legacy")(uri "${KIPRJMOD}/NXP.lib")(options "")(descr ""))
+  (lib (name "GateDrivers")(type "KiCad")(uri "${KIPRJMOD}/GateDrivers.kicad_sym")(options "")(descr ""))
+)
